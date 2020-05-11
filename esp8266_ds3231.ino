@@ -1,6 +1,6 @@
 // Set date and time using a DS1307 RTC connected via I2C
 /*
-  wsp8266
+  esp8266
     D1 > SCL
     D2 > SDA
 */
